@@ -1,0 +1,25 @@
+# Font style
+font.family: DejaVu Sans
+font.sans-serif: Lato
+font.cursive : Lato
+font.size: 8
+font.weight: 300
+xtick.labelsize : 7
+ytick.labelsize : 7
+axes.labelsize: 8
+axes.titlesize : 8
+axes.labelweight : 300
+axes.titleweight : 300
+axes.formatter.use_mathtext : true
+figure.titleweight: 300
+figure.titlesize: 9
+legend.fontsize: 8
+
+text.usetex: false
+mathtext.fallback: stixsans
+mathtext.fontset : custom
+mathtext.it : DejaVu Sans:italic
+mathtext.bf : DejaVu Sans:bold
+mathtext.sf : DejaVu Sans
+mathtext.default : it
+mathtext.rm : DejaVu Sans
